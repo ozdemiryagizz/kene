@@ -1,0 +1,6 @@
+{
+  "name": "MicroVisuals",
+  "description": "High-fidelity AI graphic and cinematography engine. Describe what you see in your head and get images that actually match.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
